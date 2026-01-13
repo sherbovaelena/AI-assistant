@@ -1,6 +1,7 @@
 ИИ-ассистент для студии красоты
 ссылка на проект @STUDIYA_ANNAMARIYA_BOT
 
+скриншот чат бота студии красоты <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5065f20b-364f-4393-8942-08efe8538c85" />
 
 Описание проекта
 
